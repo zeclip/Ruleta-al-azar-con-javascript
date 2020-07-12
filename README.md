@@ -13,7 +13,3 @@ _Todo el codigo esta en el repositorio, y la informacion esta comentada en el ar
 **Javascript**
 
 **CSS**
-
-## Autores ✒️
-
-* **Emmanuel Lorenzo** - *Ingeniero en informatica* - 
